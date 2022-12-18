@@ -1,2 +1,2 @@
-# stockk
+# stock
 check Items simple
